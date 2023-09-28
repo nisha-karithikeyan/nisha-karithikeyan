@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nisha</h1>
+<h1 align="center">Hi 👋, I'm Nisha</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🔭 I’m currently working in **many startup level projects and preparing myself to be a great professional.**
