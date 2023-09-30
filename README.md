@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nishakarithikeyan@gmail.com**
 
-- ⚡ Fun fact **I Think I am a innovative person.**
+- ⚡ Fun fact **I Think I am an innovative person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
