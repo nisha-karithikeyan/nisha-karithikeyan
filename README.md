@@ -2,7 +2,7 @@
 
 <img align="right" width="300" height="290" src="https://github.com/nisha-karithikeyan/nisha-karithikeyan/blob/main/211284885-f4291eef-88a6-48cb-a-unscreen.gif?raw=true">
 
-✨ Software Engineer | Python Developer | B.Tech IT Graduate (2025) | FAANG Hopeful ✨  
+✨ Software Engineer | B.Tech IT Graduate (2025) | FAANG Hopeful ✨  
 
 ---
 
