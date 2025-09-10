@@ -92,7 +92,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisha-karithikeyan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ffcc&icon_color=00ffcc" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisha-karithikeyan&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ffcc" width="49%" />
 </p>
 
