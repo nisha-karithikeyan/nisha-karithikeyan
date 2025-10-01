@@ -2,7 +2,7 @@
 ### Portfolio: https://portfolio-three-topaz-40.vercel.app/
 <img align="right" width="300" height="290" src="https://github.com/nisha-karithikeyan/nisha-karithikeyan/blob/main/211284885-f4291eef-88a6-48cb-a-unscreen.gif?raw=true">
 
-✨ Software Engineer | B.Tech IT Graduate (2025) | FAANG Hopeful ✨  
+✨ Software Engineer | B.Tech IT Graduate (2025)   
 
 ---
 
@@ -13,7 +13,6 @@
 - 🚀 Passionate about solving real-world problems with code
 - 🎯 Targeting roles in **Software Engineering** or **Full Stack**   
 - 📈 Learning every single day
-- 💼 Dreaming of cracking **FAANG** someday (and I’m working on it daily!)
 - 😎 Learning Data Structures & Algorithms (DSA)
 
 --- 
@@ -24,7 +23,7 @@
 
 ### 💼 Download My Resume
 
-📄 [Click here to download](https://nishakarithikeyan.tiiny.site) my latest resume (PDF)
+📄 [Click here to download](https://nishakarthikeyan.tiiny.site) my latest resume (PDF)
 
 ---
 
