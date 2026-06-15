@@ -21,9 +21,7 @@
 
 ---
 
-### 💼 Download My Resume
 
-📄 [Click here to download](https://nishakarthikeyan.tiiny.site) my latest resume (PDF)
 
 ---
 
