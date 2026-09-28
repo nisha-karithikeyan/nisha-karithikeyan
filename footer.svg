@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<defs><clipPath id="clip"><rect width="1200" height="150" rx="20"/></clipPath><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7f4ee"/><stop offset="1" stop-color="#efeae2"/></linearGradient></defs>
+<style>
+.s{font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif} .m{font-family:Consolas, 'Courier New', monospace}
+.f{opacity:0;animation:f 1s ease-out forwards}
+.a1{animation-delay:.1s}.a2{animation-delay:.3s}.a3{animation-delay:.5s}.a4{animation-delay:.7s}.a5{animation-delay:.9s}.a6{animation-delay:1.1s}
+@keyframes f{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+.dr{animation:dr 16s ease-in-out infinite}
+@keyframes dr{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+</style>
+<g clip-path="url(#clip)"><rect width="1200" height="150" fill="url(#bg)"/>
+<circle class="dr" cx="120" cy="60" r="70" fill="#dcd9ea" opacity=".5"/><circle class="dr" cx="1090" cy="80" r="80" fill="#d6e2d9" opacity=".5" style="animation-delay:4s"/><text class="s f a1" x="600" y="72" text-anchor="middle" font-size="20" font-style="italic" fill="#4a505c">"Good software is quiet. It just works."</text><text class="s f a3" x="600" y="104" text-anchor="middle" font-size="14" fill="#8a8f98">Thanks for visiting · Let's build something together</text></g>
+</svg>

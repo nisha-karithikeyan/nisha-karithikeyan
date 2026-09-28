@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="320" viewBox="0 0 580 320">
+<defs><clipPath id="clip"><rect width="580" height="320" rx="20"/></clipPath><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7f4ee"/><stop offset="1" stop-color="#efeae2"/></linearGradient></defs>
+<style>
+.s{font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif} .m{font-family:Consolas, 'Courier New', monospace}
+.f{opacity:0;animation:f 1s ease-out forwards}
+.a1{animation-delay:.1s}.a2{animation-delay:.3s}.a3{animation-delay:.5s}.a4{animation-delay:.7s}.a5{animation-delay:.9s}.a6{animation-delay:1.1s}
+@keyframes f{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+.dr{animation:dr 16s ease-in-out infinite}
+@keyframes dr{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+</style>
+<g clip-path="url(#clip)"><rect width="580" height="320" fill="url(#bg)"/>
+<circle class="dr" cx="560" cy="30" r="70" fill="#efe2c4" opacity=".55"/><rect class="f a1" x="20" y="20" width="540" height="280" rx="16" fill="#ffffff" stroke="#e4ded4"/><g class="f a2"><rect x="48" y="48" width="44" height="44" rx="12" fill="#efe2c4"/><text class="s" x="70" y="78" text-anchor="middle" font-size="20" font-weight="700" fill="#8a6d3b">E</text><text class="s" x="108" y="78" font-size="22" font-weight="700" fill="#2f3440">ERD Generator</text></g><g class="f a3"><text class="s" x="48" y="128" font-size="15" fill="#4a505c">Connects to a PostgreSQL database and turns</text><text class="s" x="48" y="152" font-size="15" fill="#4a505c">its schema into an entity-relationship diagram.</text></g><g class="f a4"><circle cx="54" cy="194" r="3.5" fill="#c9a96b"/><text class="s" x="66" y="199" font-size="13" fill="#8a8f98">Reads tables, keys and relationships</text><circle cx="54" cy="216" r="3.5" fill="#c9a96b"/><text class="s" x="66" y="221" font-size="13" fill="#8a8f98">[Key feature two]</text></g><g class="f a5"><rect x="48" y="254" width="69" height="28" rx="14.0" fill="#d6e2d9"/><text class="s" x="82.5" y="272.32" text-anchor="middle" font-size="12" font-weight="600" fill="#4f6f5b">Python</text><rect x="127" y="254" width="98" height="28" rx="14.0" fill="#e8d5d0"/><text class="s" x="176.0" y="272.32" text-anchor="middle" font-size="12" font-weight="600" fill="#8a5a52">PostgreSQL</text><rect x="235" y="254" width="83" height="28" rx="14.0" fill="#efe2c4"/><text class="s" x="276.5" y="272.32" text-anchor="middle" font-size="12" font-weight="600" fill="#8a6d3b">Diagrams</text></g></g>
+</svg>
